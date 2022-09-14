@@ -38,13 +38,12 @@
   
   <h3> Current </h3>
   
-  - CherishOS Official Maintainer for Redmi Note 8 Pro.
   - Learning Web & Android Development & Ethical Hacking.
 
   <h3> Interests </h3>
   
   - Blogs, Projects, Abstract Writing & Shit Talks.
-  - Movies: Sci-fi, Horror, Comedy, Mystery.
+  - Movies: Sci-fi, Comedy, Mystery.
   - Science: Astronomy, Cosmology, Psychology.
   - Literally Everything. 
 <br>
@@ -60,11 +59,11 @@
   
 <h2> Languages: </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishwofic&theme=buefy&border_radius=10"/></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtmaniraj&theme=buefy&border_radius=10"/></a>
 <br>
 <br>
 <h2> Statistics: </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bishwofic&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10" alt="Bishwo's GitHub Stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gtmaniraj&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10" alt="Maniraj's GitHub Stats" /></a>
 <br>
 <br>
 <h2 align = "left"> Humour: </h2>
