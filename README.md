@@ -34,7 +34,7 @@
 
 <h2> About Me:</h2>
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/gtmaniraj/gtmaniraj/main/resources/bish.svg" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/gtmaniraj/gtmaniraj/main/resources/mani.svg" />
   
   <h3> Current </h3>
   
