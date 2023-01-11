@@ -37,7 +37,8 @@
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/gtmaniraj/gtmaniraj/main/mani.svg" />
   
   <h3> 🎵 Now Playing: </h3>
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31djpv6a2b34ms5u3emn56p3ifru&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31djpv6a2b34ms5u3emn56p3ifru&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)]]
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31djpv6a2b34ms5u3emn56p3ifru&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)
   
   <h3> Currently </h3>
   
@@ -52,8 +53,11 @@
   - Literally Everything. 
 <br>
 <h2> Skills:</h2>
-<a href= https://github.com/gtmaniraj?tab=repositories&q=&type=&language=android&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= https://github.com/gtmaniraj?tab=repositories&q=&type=&language=java&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+  <a href= https://github.com/?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
+  <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+  <a href= https://github.com/gtmaniraj?tab=repositories&q=&type=&language=android&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+  <a href= https://github.com/bishwofic?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
 <a href= https://github.com/gtmaniraj?tab=repositories&q=&type=&language=html&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/gtmaniraj?tab=repositories&q=&type=&language=css&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/gtmaniraj?tab=repositories&q=&type=&language=javascript&sort= > <img width =30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
