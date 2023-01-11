@@ -37,7 +37,7 @@
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/gtmaniraj/gtmaniraj/main/mani.svg" />
   
   <h3> 🎵 Now Playing: </h3>
-  ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=	31djpv6a2b34ms5u3emn56p3ifru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=35363a&bar_color=0D1117&bar_color_cover=true)  
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31djpv6a2b34ms5u3emn56p3ifru&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31djpv6a2b34ms5u3emn56p3ifru&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)]]
   
   <h3> Currently </h3>
   
