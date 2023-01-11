@@ -36,8 +36,12 @@
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/gtmaniraj/gtmaniraj/main/mani.svg" />
   
-  <h3> Current </h3>
+  <h3> 🎵 Now Playing: </h3>
+  ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=	31djpv6a2b34ms5u3emn56p3ifru&cover_image=true&theme=natemoo-re&show_offline=false&background_color=35363a&bar_color=0D1117&bar_color_cover=true)  
   
+  <h3> Currently </h3>
+  
+  - JAVA Developer Intern at InfoxIT Pvt. Ltd.
   - Learning Web & Android Development & Ethical Hacking.
 
   <h3> Interests </h3>
