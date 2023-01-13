@@ -38,7 +38,7 @@
   
   <h3> 🎵 Now Playing: </h3>
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31djpv6a2b34ms5u3emn56p3ifru&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31djpv6a2b34ms5u3emn56p3ifru&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)
   
   <h3> Currently </h3>
   
@@ -67,11 +67,11 @@
   
 <h2> Languages: </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtmaniraj&theme=buefy&border_radius=10"/></a>
+<img align="center" src="https://bishwofic-github-profile-stats.vercel.app/api/top-langs/?username=gtmaniraj&theme=buefy&border_radius=10"/></a>
 <br>
 <br>
 <h2> Statistics: </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gtmaniraj&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10" alt="Maniraj's GitHub Stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://bishwofic-github-profile-stats.vercel.app/api?username=gtmaniraj&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10" alt="Maniraj's GitHub Stats" /></a>
 <br>
 <br>
 <h2 align = "left"> Humour: </h2>
