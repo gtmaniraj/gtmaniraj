@@ -1,8 +1,9 @@
 <b>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<h3>🤖 Hi, I'm Maniraj 🤖</h3>
-<h4>A Passionate Student/Developer from Nepal.</h4> 
+<br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=35&pause=1000&center=true&color=0C8AD2&vCenter=true&width=435&lines=Hey,+I'm+Maniraj+Gautam+!!" alt="Typing SVG" /></a> 
+<h4>A Passionate Student/Developer from Nepal.</h4> +
 </div>
 
 <div align="center" id="social">
@@ -29,8 +30,8 @@
   </a>
 </div>
 <br>
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gtmaniraj.gtmaniraj)
+[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/gtmaniraj)
+
 
 <h2> About Me:</h2>
 
@@ -67,11 +68,11 @@
   
 <h2> Languages: </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://bishwofic-github-profile-stats.vercel.app/api/top-langs/?username=gtmaniraj&theme=buefy&border_radius=10"/></a>
+<img align="center" src="https://gtmaniraj-readme.vercel.app/api/top-langs/?username=gtmaniraj&theme=buefy&border_radius=10"/></a>
 <br>
 <br>
 <h2> Statistics: </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://bishwofic-github-profile-stats.vercel.app/api?username=gtmaniraj&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10" alt="Maniraj's GitHub Stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://gtmaniraj-readme.vercel.app/api?username=gtmaniraj&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10" alt="Maniraj's GitHub Stats" /></a>
 <br>
 <br>
 <h2 align = "left"> Humour: </h2>
